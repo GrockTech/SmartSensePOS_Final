@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Addsuppliers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="addSup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Billing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DailySales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Expiring.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lowstock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mainmenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MBox1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MonthlyBreakdown.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Properties\SuppliersAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReceiptPreview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="showValue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ToastNotification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TrackerNew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewCustomers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Viewsuppliers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

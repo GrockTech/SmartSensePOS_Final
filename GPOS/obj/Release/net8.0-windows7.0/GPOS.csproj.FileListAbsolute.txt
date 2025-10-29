@@ -1,0 +1,1 @@
+C:\Users\USER\source\repos\GrockTech\smartSense\GPOS\obj\Release\net8.0-windows7.0\GPOS.csproj.AssemblyReference.cache

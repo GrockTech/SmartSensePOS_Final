@@ -1,0 +1,324 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|c:\\users\\user\\source\\repos\\grocktech\\smartsense\\gpos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|solutionrelative:gpos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\gpos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|solutionrelative:gpos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|c:\\users\\user\\source\\repos\\grocktech\\smartsense\\gpos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|solutionrelative:gpos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|c:\\users\\user\\source\\repos\\grocktech\\smartsense\\gpos\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|solutionrelative:gpos\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|c:\\users\\user\\source\\repos\\grocktech\\smartsense\\gpos\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|solutionrelative:gpos\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\gpos\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|solutionrelative:gpos\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|c:\\users\\user\\source\\repos\\grocktech\\smartsense\\gpos\\toastnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|solutionrelative:gpos\\toastnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|c:\\users\\user\\source\\repos\\grocktech\\smartsense\\gpos\\toastnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|solutionrelative:gpos\\toastnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|c:\\users\\user\\source\\repos\\grocktech\\smartsense\\gpos\\toastnotification.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|solutionrelative:gpos\\toastnotification.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\gpos\\viewproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|solutionrelative:gpos\\viewproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|c:\\users\\user\\source\\repos\\grocktech\\smartsense\\gpos\\addproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|solutionrelative:gpos\\addproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\gpos\\lowstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|solutionrelative:gpos\\lowstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|c:\\users\\user\\source\\repos\\grocktech\\smartsense\\gpos\\receiptpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|solutionrelative:gpos\\receiptpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\gpos\\receiptpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|solutionrelative:gpos\\receiptpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\gpos\\viewbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|solutionrelative:gpos\\viewbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|c:\\users\\user\\source\\repos\\grocktech\\smartsense\\gpos\\tracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|solutionrelative:gpos\\tracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|c:\\users\\user\\source\\repos\\grocktech\\smartsense\\gpos\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|solutionrelative:gpos\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|c:\\users\\user\\source\\repos\\grocktech\\smartsense\\gpos\\.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE82E97D-8A4F-458A-9188-8CF8A3B68E14}|GPOS\\GPOS.csproj|solutionrelative:gpos\\.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\Form1.cs",
+              "RelativeDocumentMoniker": "GPOS\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\Form1.cs [Design]",
+              "RelativeToolTip": "GPOS\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T17:48:04.145Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\Login.cs",
+              "RelativeDocumentMoniker": "GPOS\\Login.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\Login.cs",
+              "RelativeToolTip": "GPOS\\Login.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T17:22:50.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Billing.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\Billing.cs",
+              "RelativeDocumentMoniker": "GPOS\\Billing.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\Billing.cs [Design]",
+              "RelativeToolTip": "GPOS\\Billing.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T18:39:19.773Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Billing.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\Billing.cs",
+              "RelativeDocumentMoniker": "GPOS\\Billing.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\Billing.cs",
+              "RelativeToolTip": "GPOS\\Billing.cs",
+              "ViewState": "AgIAANcDAAAAAAAAAAAQwNwDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:31:16.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ToastNotification.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\ToastNotification.cs",
+              "RelativeDocumentMoniker": "GPOS\\ToastNotification.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\ToastNotification.cs",
+              "RelativeToolTip": "GPOS\\ToastNotification.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T15:08:01.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mainmenu.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\Mainmenu.cs",
+              "RelativeDocumentMoniker": "GPOS\\Mainmenu.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\Mainmenu.cs",
+              "RelativeToolTip": "GPOS\\Mainmenu.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAWwPwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T15:03:45.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\Login.cs",
+              "RelativeDocumentMoniker": "GPOS\\Login.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\Login.cs [Design]",
+              "RelativeToolTip": "GPOS\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T15:52:40.1Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ToastNotification.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\ToastNotification.cs",
+              "RelativeDocumentMoniker": "GPOS\\ToastNotification.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\ToastNotification.cs [Design]",
+              "RelativeToolTip": "GPOS\\ToastNotification.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T15:06:54.353Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ToastNotification.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\ToastNotification.Designer.cs",
+              "RelativeDocumentMoniker": "GPOS\\ToastNotification.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\ToastNotification.Designer.cs",
+              "RelativeToolTip": "GPOS\\ToastNotification.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T15:30:46.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewProducts.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\ViewProducts.cs",
+              "RelativeDocumentMoniker": "GPOS\\ViewProducts.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\ViewProducts.cs [Design]",
+              "RelativeToolTip": "GPOS\\ViewProducts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:50:45.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddProducts.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\AddProducts.cs",
+              "RelativeDocumentMoniker": "GPOS\\AddProducts.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\AddProducts.cs",
+              "RelativeToolTip": "GPOS\\AddProducts.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T22:14:18.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReceiptPreview.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\ReceiptPreview.cs",
+              "RelativeDocumentMoniker": "GPOS\\ReceiptPreview.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\ReceiptPreview.cs [Design]",
+              "RelativeToolTip": "GPOS\\ReceiptPreview.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:33:22.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "lowstock.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\lowstock.cs",
+              "RelativeDocumentMoniker": "GPOS\\lowstock.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\lowstock.cs [Design]",
+              "RelativeToolTip": "GPOS\\lowstock.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T22:15:57.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReceiptPreview.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\ReceiptPreview.cs",
+              "RelativeDocumentMoniker": "GPOS\\ReceiptPreview.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\ReceiptPreview.cs",
+              "RelativeToolTip": "GPOS\\ReceiptPreview.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:33:27.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": ".Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\.Designer.cs",
+              "RelativeDocumentMoniker": "GPOS\\.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\.Designer.cs",
+              "RelativeToolTip": "GPOS\\.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T15:25:32.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAGAbAAAAAAAAAAAiwHYbAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-10-21T15:19:40.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "test.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\test.cs",
+              "RelativeDocumentMoniker": "GPOS\\test.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\test.cs",
+              "RelativeToolTip": "GPOS\\test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:28:22.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Tracker.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\Tracker.cs",
+              "RelativeDocumentMoniker": "GPOS\\Tracker.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\Tracker.cs",
+              "RelativeToolTip": "GPOS\\Tracker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:28:23.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ViewBill.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\ViewBill.cs",
+              "RelativeDocumentMoniker": "GPOS\\ViewBill.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\GrockTech\\smartSense\\GPOS\\ViewBill.cs [Design]",
+              "RelativeToolTip": "GPOS\\ViewBill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:28:23.663Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
